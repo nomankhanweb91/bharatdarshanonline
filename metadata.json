@@ -1,0 +1,6 @@
+{
+  "name": "BharatDarshan",
+  "description": "BharatDarshan — Complete India Travel Discovery, Destination Guides, Itineraries & Tourism Platform",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
